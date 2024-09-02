@@ -2,6 +2,10 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haqhere&label=Profile%20views&color=0e75b6&style=flat" alt="haqhere" /> </p>
+<img 
+ align = "right" 
+ width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQxZTZlbXFkdDV6cmhuMzF6aTV6Zmc2d3VzcGk4MG96aWhsc3d6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="haqhere" />
+
 
 - 🌱 I’m currently learning **Typescript**
 
